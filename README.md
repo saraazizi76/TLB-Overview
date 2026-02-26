@@ -12,6 +12,6 @@ The parameters setting is based on Intel Pentium Pro Core.
 ## Architectural View
 
 ## Simulation Results
-
+![Alt text](images/write.png)
 
 ## Implementation Results
